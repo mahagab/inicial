@@ -1,1 +1,2 @@
 gaty
+idade = 6
